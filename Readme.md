@@ -10,11 +10,7 @@ A simple **React Native** app that allows users to create, edit, and delete card
 ✅ **Local Storage** – Uses `AsyncStorage` for temporary data persistence.
 ✅ **Beautiful UI** – Modern design with interactive buttons.
 
-## 📷 Screenshots
 
-| Home Screen | Editor Screen |
-|------------|--------------|
-| ![Home Screen](assets/home_screen.png) | ![Editor Screen](assets/editor_screen.png) |
 
 ## 🛠 Installation
 
@@ -79,5 +75,8 @@ npm install @react-native-async-storage/async-storage
 ## 📞 Support
 If you face any issues, feel free to open an issue or contribute! 😊
 
+## 📷 Screenshots
+![Birthday](https://github.com/user-attachments/assets/4ed1e24a-a085-481b-afa6-71e07eb9824e)
 Happy coding! 🚀
+
 
